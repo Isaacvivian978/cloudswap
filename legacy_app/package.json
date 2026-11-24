@@ -1,0 +1,13 @@
+{
+  "name": "legacy-firebase-project",
+  "version": "1.0.0",
+  "description": "A legacy firebase dummy project for CloudSwap engine testing",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "pg": "^8.11.3",
+    "express": "^4.18.2"
+  }
+}

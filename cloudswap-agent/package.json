@@ -1,0 +1,22 @@
+{
+  "name": "cloudswap-agent",
+  "version": "1.0.0",
+  "description": "CloudSwap Migration Agent",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "pkg": {
+    "scripts": [],
+    "assets": [],
+    "targets": [
+      "node18-linux-x64",
+      "node18-macos-x64",
+      "node18-win-x64"
+    ],
+    "outputPath": "dist"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kextraco/Genzy",
+  "license": "ISC"
+}

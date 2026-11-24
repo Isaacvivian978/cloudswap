@@ -1,0 +1,14 @@
+{
+  "name": "cloudswap-init",
+  "version": "1.0.1-beta",
+  "description": "Installer for the CloudSwap Agent",
+  "main": "install.js",
+  "bin": {
+    "cloudswap-init": "install.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kextraco/Genzy",
+  "license": "ISC"
+}
